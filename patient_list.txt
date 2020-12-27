@@ -1,0 +1,19 @@
+
+
+
+Name: kafi
+ID: 45
+Age: 21
+Cabin No: 55
+Diseases: nai
+
+
+
+Name: marjana
+ID: 200
+Age: 45
+Cabin No: 420
+Diseases: nai
+
+
+
